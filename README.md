@@ -10,7 +10,7 @@
 </div>
 
 ## 2. Avaliação da acessibilidade e usabilidade da tela 
-&nbsp;&nbsp;&nbsp;&nbsp;A tela “Perfil de integrante” antes de apresentar qualquer tipo de alteração apresenta o seguinte html: 
+&nbsp;&nbsp;&nbsp;&nbsp;A tela “Perfil de integrante” antes de apresentar qualquer tipo de alteração apresenta o seguinte HTML: 
 ```html
 <!DOCTYPE html>
 <html lang="en">
